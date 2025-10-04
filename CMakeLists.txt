@@ -8,6 +8,17 @@ find_package(Qt6 6.2 COMPONENTS REQUIRED Core Gui Qml Quick Charts Sql Network)
 
 qt_add_executable(appEarEEG_DemoApp
     main.cpp
+
+    src/database/DatabaseConfig.h
+    src/database/TableSchemasSQLite.h
+
+    src/database/IDataManager.h
+    src/database/SQLiteManager.h
+    src/database/SQLiteManager.cpp
+    src/database/DataHandler.h
+    src/database/DataHandler.cpp
+    src/database/DatabaseManager.h
+    src/database/DatabaseManager.cpp
 )
 
 set_source_files_properties(

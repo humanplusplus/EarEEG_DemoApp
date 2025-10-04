@@ -7,10 +7,19 @@
 #include <QDir>
 #include <QQuickView>
 
+#include "src/database/SQLiteManager.h"
+
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
     QQmlApplicationEngine engine;
+
+    SQLiteManager sqliteManager;
+    if (!sqliteManager.initialize()) {
+        qWarning() << "[main.cpp] Database initialization failed!";
+        return -1;
+    }
+    qDebug() << "[main.cpp] Database initialization successfully!";
 
     const QUrl url(QStringLiteral("qrc:/EarEEG_DemoApp/main.qml"));
     QObject::connect(

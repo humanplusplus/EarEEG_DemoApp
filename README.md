@@ -15,7 +15,7 @@ We chose to build this demo because **earEEG** technology allows convenient and 
 - [Contact](./README.md#contact)
 
 ## Project presentation
-Details of the project (with app examples) are available [here](./assets/)
+Details of the project (with app examples) are available [here](./doc/presentation.pdf)
 
 ## Current features  
 The prototype already includes:  
@@ -52,3 +52,4 @@ git clone https://github.com/humanplusplus/EarEEG_DemoApp
 
 ## Contact
 If you are interested in collaboration, research, or supporting development, feel free to reach out ✉️ humannnplusplus[at]gmail.com
+
