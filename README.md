@@ -5,6 +5,12 @@ A lightweight **mobile demo application** that visualizes **focus level** in rea
 
 We chose to build this demo because **earEEG** technology allows convenient and mobile recording of brain activity. Unlike traditional EEG, it can be worn daily and unobtrusively, making it an excellent tool for studying focus during real-world tasks (e.g., reading, listening, working).  
 
+## App examples
+![Application animation](./doc/app_screens/screen_homePage.png)
+![Application animation](./doc/app_screens/screen_attentionHight.png)
+![Application animation](./doc/app_screens/screen_attentionMedium.png)
+![Application animation](./doc/app_screens/screen_userDetails.png)
+
 ## Content
 - [Project presentation](./README.md#project-presentation)
 - [Roadmap](./README.md#roadmap)
