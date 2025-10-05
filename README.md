@@ -14,12 +14,6 @@ We chose to build this demo because **earEEG** technology allows convenient and 
   <img src="./doc/app_screens/screen_userDetails.png" width="220">
 </p>
 
-
-![Application animation](./doc/app_screens/screen_homePage.png)
-![Application animation](./doc/app_screens/screen_attentionHight.png)
-![Application animation](./doc/app_screens/screen_attentionMedium.png)
-![Application animation](./doc/app_screens/screen_userDetails.png)
-
 ## Content
 - [Project presentation](./README.md#project-presentation)
 - [Roadmap](./README.md#roadmap)
