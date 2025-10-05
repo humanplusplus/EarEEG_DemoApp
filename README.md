@@ -1,6 +1,6 @@
 # EarEEG — Demo App for Daily Focus Tracking  
 
-**Project description**  
+## Project description
 A lightweight **mobile demo application** that visualizes **focus level** in real time using simulated earEEG signals. The app is a prototype for future integration with real hardware.  
 
 We chose to build this demo because **earEEG** technology allows convenient and mobile recording of brain activity. Unlike traditional EEG, it can be worn daily and unobtrusively, making it an excellent tool for studying focus during real-world tasks (e.g., reading, listening, working).  
