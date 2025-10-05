@@ -1,4 +1,4 @@
-# EarEEG — Demo App for Daily Focus Tracking  
+# ReFocus - Mobile App Monitoring Demo
 
 ## Project description
 A lightweight **mobile demo application** that visualizes **focus level** in real time using simulated earEEG signals. The app is a prototype for future integration with real hardware.  
