@@ -9,9 +9,12 @@ We chose to build this demo because **earEEG** technology allows convenient and 
 
 <p align="center">
   <img src="./doc/app_screens/screen_homePage.png" width="220">
+  <img src="./doc/app_screens/screen_userDetails.png" width="220">
+</p>
+
+<p align="center">
   <img src="./doc/app_screens/screen_attentionHight.png" width="220">
   <img src="./doc/app_screens/screen_attentionMedium.png" width="220">
-  <img src="./doc/app_screens/screen_userDetails.png" width="220">
 </p>
 
 ## Content
