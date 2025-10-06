@@ -24,7 +24,7 @@ We chose to build this demo because **earEEG** technology allows convenient and 
   - [Environment](./README.md#environment)
   - [Used technologies](./README.md#used-technologies)
   - [Run the app](./README.md#run-the-app)
-- [What next?](./README.md#what-next?)
+- [What next?](./README.md#what-next)
 - [Contact](./README.md#contact)
 
 ## Project presentation
