@@ -63,6 +63,13 @@ Download files from GitHub and open project in Qt Creator
 git clone https://github.com/humanplusplus/EarEEG_DemoApp
 ```
 
+### What next?
+This is just the beginning.
+
+We’re taking this project further — until January 2026, backed by the University of Warsaw Incubator (Laboratorium Pomysłów).
+
+Next step: real ear-EEG data and the first hardware prototype. ⚡🧠
+
 ## Contact
 If you are interested in collaboration, research, or supporting development, feel free to reach out ✉️ humannnplusplus[at]gmail.com
 
