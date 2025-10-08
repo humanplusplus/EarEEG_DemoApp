@@ -17,6 +17,7 @@ We chose to build this demo because **earEEG** technology allows convenient and 
   <img src="./doc/app_screens/screen_attentionMedium.png" width="350">
 </p>
 
+
 ## Content
 - [Project presentation](./README.md#project-presentation)
 - [Roadmap](./README.md#roadmap)
