@@ -5,7 +5,7 @@ A lightweight **mobile demo application** that visualizes **focus level** in rea
 
 We chose to build this demo because **earEEG** technology allows convenient and mobile recording of brain activity. Unlike traditional EEG, it can be worn daily and unobtrusively, making it an excellent tool for studying focus during real-world tasks (e.g., reading, listening, working).
 
-👉 Check out our project on [ChallengeRocket](https://challengerocket.com/hackyeah-2025/works/eareeg-demo-aplikacji-mobilnej-a5c19c#go-pagecontent).
+👉 Check out our 1st project from HackYeah2020 on [ChallengeRocket](https://challengerocket.com/hackyeah-2025/works/eareeg-demo-aplikacji-mobilnej-a5c19c#go-pagecontent)!
 
 ## App examples
 
